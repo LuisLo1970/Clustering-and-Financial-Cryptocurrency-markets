@@ -1,5 +1,5 @@
 # Clustering-and-Financial-Cryptocurrency-markets
-# Application for different partitional clustering techniques to analyze the cryptocurrency markets from different perspectives: financial and statistic.
+Application for different partitional clustering techniques to analyze the cryptocurrency markets from different perspectives: financial and statistic.
 Since the emergence of Bitcoin, cryptocurrencies have grown significantly, not only in terms of capitalization but also in number. Consequently, the
 cryptocurrency market can be a conducive arena for investors, as it offers many opportunities. However, it is difficult to understand. 
 This project aims to describe, summarize, and segment the main trends of the entire cryptocurrency market in 2018, using data analysis tools. Accordingly, we
